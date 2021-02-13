@@ -1,2 +1,2 @@
 # Avaks
-Canadian Themed celebrity quiz 
+Canada themed tourist quiz game
